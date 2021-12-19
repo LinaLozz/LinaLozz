@@ -1,20 +1,58 @@
- { “fullname” : “Lina M Lozano Puerto”,
-   “role” : “Professional International Trade”,
-   "goal" : "I want to become a front end Developer",
-   “data” : 
+ ```shell
+ { “name” : “Lina M Lozano Puerto”,
+   “role” : “Professional in International Trade”,
+   “languages” : “Spanish, English, Deutsch”,
+   “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/linamlozanop/", 
-      "Email"   : "lina.lozanop01@gmail.com",
+      "Email"   : "lina.lozanop01@gmail.com",
      }
  }
+```
 
-🚀 #### Tengo conocimientos sobre:
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> 
+🚀 PRINCIPAL STACK:
+<p>
+ <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </p>
-____
-
-##### Database
-<p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
-
+<H3>
+ Programming Language
+</H3>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+<H3>
+ FrontEnd Development
+</H3>
+<p>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+</p>
+<h3>
+ BackEnd Development
+</h3>
+<p>
+ <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+ <h3>
+  Tools & Technologies
+ </h3>
+ <p>
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+ </p>
+ <h1>
+ ABOUT ME
+ </h1>
+ <p>
+ I’m a Colombian girl, passionate to learn about technology and programming, I studied Full Stack Development at Sergio Arboleda University. with extensive knowledge in Digital Marketing .
+</p>
+<h3>🌱 I'm currently learning...</h3>
+<p>
+- Jenkins / Docker 
+- React JS / Javascript 
+- Python
+</p> 
