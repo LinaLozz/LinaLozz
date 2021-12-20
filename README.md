@@ -9,6 +9,12 @@
      }
  }
 ```
+<h1>
+ ABOUT ME
+ </h1>
+ <p>
+ I’m a Colombian girl, passionate to learn about technology and programming, I studied Full Stack Development at Sergio Arboleda University. with extensive knowledge in Digital Marketing .
+</p>
 <h3>
  🚀 PRINCIPAL STACK:
 </h3>  
@@ -45,12 +51,6 @@
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
  </p>
- <h1>
- ABOUT ME
- </h1>
- <p>
- I’m a Colombian girl, passionate to learn about technology and programming, I studied Full Stack Development at Sergio Arboleda University. with extensive knowledge in Digital Marketing .
-</p>
 <h3>🌱 I'm currently learning...</h3>
 <p>
 - Jenkins / Docker 
