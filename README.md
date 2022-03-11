@@ -3,8 +3,8 @@
    “role” : “Professional in International Trade”,
    “languages” : “Spanish, English, Deutsch”,
    “data” : 
-     { "About me" : <link href="https://linalozano.000webhostapp.com/">,
-      "Linkedin" :  <link href="https://www.linkedin.com/in/linamlozanop/">, 
+     { "About me" : "https://linalozano.000webhostapp.com/",
+      "Linkedin" :  "https://www.linkedin.com/in/linamlozanop/", 
       "Email"   : "lina.lozanop01@gmail.com",
      }
  }
