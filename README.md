@@ -13,7 +13,7 @@
  🙋‍♀️ ABOUT ME
  </h1>
  <p>
- I’m a Colombian girl, passionate to learn about technology and programming, I studied Full Stack Development at Sergio Arboleda University. with extensive knowledge in Digital Marketing .
+ I’m a Colombian professional, passionate to learn about technology and programming, I studied Full Stack Development at Sergio Arboleda University. with extensive knowledge in Digital Marketing .
 </p>
 <h3>
  👩‍🎓 PERSONAL PORTFOLIO WEBSITE
