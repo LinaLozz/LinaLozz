@@ -23,7 +23,6 @@
  👩‍💻 MY DIGITAL SPACE
 <h3>
 <p> I would like to show you my Front-End projects. (RECOMMENDATION:  Use Laptop or PC to enable full visibility). <a target="_blank" href="https://linalozz.github.io/LinaLozano/">CLICK HERE</a></p>
-</p>
  🚀 PRINCIPAL STACK:
 </h3>  
 <p>
