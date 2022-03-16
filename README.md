@@ -24,9 +24,10 @@
 <h3>
  👩‍💻 MY DIGITAL SPACE
 <h3>
-<p> 
- I would like to show you my Front-End projects. (RECOMMENDATION:  Use a Laptop or PC to enable full visibility). <a target="_blank" href="https://linalozz.github.io/LinaLozano/">CLICK HERE</a>
- </p>
+<p>
+ I would like to show you my Front-End projects. (RECOMMENDATION:  Use a Laptop or PC to enable full visibility). 
+ <a target="_blank"href="https://linalozz.github.io/LinaLozano/">CLICK HERE</a>
+</p>
  🚀 PRINCIPAL STACK:
 </h3>  
 <p>
