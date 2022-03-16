@@ -18,11 +18,15 @@
 <h3>
  👩‍🎓 PERSONAL PORTFOLIO WEBSITE
 </h3>
-<p> Visit my personal portfolio website. <a target="_blank" href="https://linamlozanop.000webhostapp.com">CLICK HERE</a></p>
+<p> 
+ Visit my personal portfolio website. <a target="_blank" href="https://linamlozanop.000webhostapp.com">CLICK HERE</a>
+</p>
 <h3>
  👩‍💻 MY DIGITAL SPACE
 <h3>
-<p> I would like to show you my Front-End projects. (RECOMMENDATION:  Use Laptop or PC to enable full visibility). <a target="_blank" href="https://linalozz.github.io/LinaLozano/">CLICK HERE</a></p>
+<p> 
+ I would like to show you my Front-End projects. (RECOMMENDATION:  Use a Laptop or PC to enable full visibility). <a target="_blank" href="https://linalozz.github.io/LinaLozano/">CLICK HERE</a>
+ </p>
  🚀 PRINCIPAL STACK:
 </h3>  
 <p>
