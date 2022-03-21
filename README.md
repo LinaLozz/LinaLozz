@@ -1,20 +1,16 @@
- ```shell
- { “name” : “Lina M Lozano Puerto”,
-   “role” : “Professional in International Trade”,
-   “languages” : “Spanish, English, Deutsch”,
-   “data” : 
-     { 
-      "Linkedin" :  "https://www.linkedin.com/in/linamlozanop/", 
-      "Email"   : "lina.lozanop01@gmail.com",
-     }
- }
-```
+<h1> Hi, I'm Lina Mercedes Lozano Puerto </h1>
+
+<img src ="LINA M LOZANO P.png">
 <h1>
  🙋‍♀️ ABOUT ME
  </h1>
  <p>
- I’m a Colombian professional, passionate to learn about technology and programming, I studied Full Stack Development at Sergio Arboleda University. with extensive knowledge in Digital Marketing .
+ I’m a Colombian professional, passionate to learn about technology and programming, I studied programming with an emphasis on web applications at Sergio Arboleda University. With extensive knowledge in Digital Marketing .
 </p>
+<h3>
+ 🌎 LANGUAGES
+</h3>
+<P> Spanish, Deutsch, English </P>
 <h3>
  👩‍🎓 PERSONAL PORTFOLIO WEBSITE
 </h3>
