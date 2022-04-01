@@ -32,6 +32,13 @@
  I would like to show you my Front-End projects. (RECOMMENDATION:  Use a Laptop or PC to enable full visibility). 
  <a target="_blank"href="https://linalozz.github.io/LinaLozano/">CLICK HERE</a>
 </p>
+<p>
+ <h5>THE CONTENT</h5>
+ <p>✅Log in & Register form</p>
+ <p>✅Digital Clock</p>
+ <p>✅programming Dictionary</p>
+ <p>✅The Friendly Weather App</p>
+</p>
  
 <h3>
  🚀 PRINCIPAL STACK:
