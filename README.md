@@ -21,7 +21,7 @@
 </h3>
 
 <p> 
- Visit my personal portfolio website. <a target="_blank" href="https://linamlozanop.000webhostapp.com">CLICK HERE</a>
+ Visit my personal portfolio website. <a target="_blank" href="https://portfoliolinalozano.netlify.app/index.html">CLICK HERE</a>
 </p>
 
 <h3>
@@ -99,7 +99,7 @@
  </h3>
  
 <p align="left">
-<a href="https://www.linkedin.com/in/linamlozanop/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Lina Mercedes Lozano Puerto" height="30" width="40" />Linkedin</a>
+<a href="https://www.linkedin.com/in/linamlozanop-uxuidesigner/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Lina Mercedes Lozano Puerto" height="30" width="40" />Linkedin</a>
  
 <a href="lina.lozanop01@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="E-mail - Lina Lozano" height="30" width="40"/>lina.lozanop01@gmail.com</a>
 </p>
