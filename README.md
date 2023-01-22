@@ -7,7 +7,7 @@
  </h1>
  
  <p>
- I’m a Colombian professional, passionate to learn about technology and marketing, I studied programming with an emphasis on web applications at Sergio Arboleda University. With extensive knowledge in Digital Marketing .
+ I’m a Colombian professional, passionate to learn about technology and marketing, I studied programming with an emphasis on web applications at Sergio Arboleda University. With extensive knowledge in User Experience Design.
 </p>
 
 <h3>
